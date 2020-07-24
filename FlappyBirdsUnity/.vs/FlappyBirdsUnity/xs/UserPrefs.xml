@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{01D0EFE6-01FD-40CD-B1F5-4F382CB92514}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SmallBird.cs">
+    <Files>
+      <File FileName="Assets/SmallBird.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyBirdsUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SmallBird.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6870c4fd-32b2-49d1-8fa3-e82ee7a0cafe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
